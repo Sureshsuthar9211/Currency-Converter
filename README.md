@@ -28,6 +28,7 @@ A simple Currency Converter web application built using HTML, CSS, and JavaScrip
 ## Project Structure
 
 - `index.html`
+- `README.md`
 - `style.css`
 - `script.js`
 - `codes.js`
@@ -59,7 +60,6 @@ https://flagsapi.com/IN/flat/64.png
 
 ## Future Improvements
 
-- Add dark mode
 - Add loading spinner
 - Improve UI animations
 - Add recent conversion history
