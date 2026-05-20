@@ -10,6 +10,8 @@ A simple Currency Converter web application built using HTML, CSS, and JavaScrip
 - Dynamic currency dropdowns
 - Automatic country flag updates
 - Currency swap feature
+- Fetch API integration
+- Responsive user interface
 
 ---
 
@@ -17,5 +19,48 @@ A simple Currency Converter web application built using HTML, CSS, and JavaScrip
 
 - HTML5
 - CSS3
-- JavaScript
-- Fetch API
+- JavaScript (ES6)
+- Font Awesome
+- Currency Exchange API
+
+---
+
+## Project Structure
+
+- `index.html`
+- `style.css`
+- `script.js`
+- `codes.js`
+
+---
+
+## How It Works
+
+1. User enters amount.
+2. User selects currencies.
+3. Application fetches exchange rate from API.
+4. Converted amount is displayed.
+5. Flags update automatically based on selected currencies.
+
+---
+
+## API Used
+
+```bash id="jlwm24e"
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api
+```
+
+---
+
+## Future Improvements
+
+- Add dark mode
+- Add loading spinner
+- Improve UI animations
+- Add recent conversion history
+
+---
+
+## Author
+
+Developed by Suresh
