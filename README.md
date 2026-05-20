@@ -6,51 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Currency Converter - README</title>
 
- <style>
-        body{
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-            line-height: 1.6;
-        }
-
-        .container{
-            max-width: 900px;
-            margin: auto;
-            background: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-
-        h1,h2{
-            color: #333;
-        }
-
-        code{
-            background-color: #eee;
-            padding: 2px 5px;
-            border-radius: 5px;
-        }
-
-        ul{
-            padding-left: 20px;
-        }
-
-        .feature{
-            background-color: #f9f9f9;
-            padding: 10px;
-            margin: 10px 0;
-            border-left: 5px solid #555;
-        }
-
-        footer{
-            margin-top: 30px;
-            text-align: center;
-            color: gray;
-        }
-    </style>
 </head>
 
 <body>
