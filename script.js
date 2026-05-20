@@ -101,27 +101,3 @@ btn.addEventListener("click", (evt) => {
     evt.preventDefault();
     getExchangeRate();
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function swapValues(a, b) {
-    c = a;
-
-    a = b;
-    b = c;
-    console.log(a, b)
-}
