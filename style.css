@@ -55,6 +55,21 @@ form input {
     margin-top: 1rem;
 }
 
+.swap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.swap i {
+    transition: transform 0.3s ease;
+}
+
+.swap:hover i {
+    transform: rotate(180deg);
+}
+
 .select-container img {
     max-width: 2rem;
 }

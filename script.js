@@ -2,9 +2,10 @@ const dropdowns = document.querySelectorAll(".dropdown select");
 
 const btn = document.querySelector("button");
 
-let fromCurr = document.querySelector(".from select")
-let toCurr = document.querySelector(".to select")
+const fromCurr = document.querySelector(".from select")
+const toCurr = document.querySelector(".to select")
 
+const swapBtn = document.querySelector(".swap");
 const msg = document.querySelector(".msg p");
 
 ////////integrate contry codes
@@ -45,7 +46,19 @@ const updateFlag = (element) => {
 
 
 //////////// swap country
+swapBtn.addEventListener("click", () => {
 
+    let tempCode = fromCurr.value;
+
+    fromCurr.value = toCurr.value;
+
+    toCurr.value = tempCode;
+
+    updateFlag(fromCurr);
+    updateFlag(toCurr);
+
+    getExchangeRate();
+});
 
 const getExchangeRate = async() => {
 
