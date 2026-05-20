@@ -4,13 +4,13 @@
 
 <body>
 
-<div class="container">
+<div >
         <h1>💱 Currency Converter</h1>
 
    <p>
             A simple and responsive Currency Converter web application built using
             <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
-        </p>
+   </p>
 
    <p>
             This project allows users to convert currencies in real-time using an online currency exchange API.
