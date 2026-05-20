@@ -47,7 +47,7 @@ A simple Currency Converter web application built using HTML, CSS, and JavaScrip
 ## API Used
 
 ```bash id="jlwm24e"
-https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/eur.json
 ```
 
 ---
