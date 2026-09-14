@@ -1,3 +1,6 @@
+
+---
+
 # Currency Converter
 
 A simple Currency Converter web application built using HTML, CSS, and JavaScript.
@@ -32,6 +35,12 @@ A simple Currency Converter web application built using HTML, CSS, and JavaScrip
 - `style.css`
 - `script.js`
 - `codes.js`
+
+---
+
+## Project Preview
+
+![Project Preview](Screenshot(156).png)
 
 ---
 
