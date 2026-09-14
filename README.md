@@ -40,7 +40,7 @@ A simple Currency Converter web application built using HTML, CSS, and JavaScrip
 
 ## Project Preview
 
-![Project Preview](Screenshot (156).png)
+![Project Preview](project-preview.png)
 
 ---
 
